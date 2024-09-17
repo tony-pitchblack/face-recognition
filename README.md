@@ -5,7 +5,9 @@
 
 *ОПИСАНИЕ:*
 * Использование обученной модели классификации совместно с моделью детекции лиц для распозвания лиц на видео.
-![](https://github.com/tony-pitchblack/face-recognition/blob/main/multiple_face_recognition.png)
+
+[<img src="https://github.com/tony-pitchblack/face-recognition/blob/main/multiple_face_recognition.png" alt="Image description" width="600"/>]()
+
 
 ## 2. Обучение моделей (версия 0)
 *ФАЙЛ:* Face_Recognition_training_v0.ipynb [COLAB](https://colab.research.google.com/drive/1RSbAgJmlG2P1ks9Sl2trM5HUcEyhEtWf?usp=sharing)
